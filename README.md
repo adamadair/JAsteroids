@@ -2,7 +2,7 @@
 An asteroids clone in Java.
 
 ## Description:
-This is a game based on the Asteroids arcade space shooter released in 
+This is a game inspired by the Asteroids arcade space shooter released in 
 November 1979 by Atari, Inc. and designed by Lyle Rains, Ed Logg, 
 and Dominic Walsh.
 
@@ -16,8 +16,8 @@ This code was pushed using Eclipse, so you should be able to clone the
 repository and open it in Eclipse, compile and run it there. 
 
 ## The Controls
-Left Arrow - Rotate ship left
-Right Arrow - Rotate ship right
-Up Arrow - Thrust
-Space Bar - Shoot
+- **Left Arrow** - Rotate ship left
+- **Right Arrow** - Rotate ship right
+- **Up Arrow** - Thrust
+- **Space Bar** - Shoot
 
